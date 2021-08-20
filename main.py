@@ -2,7 +2,7 @@ import pygame
 import math
 
 import settings
-from linear_algebra import Vector3D, Vector2D, Matrix
+from lineargebra import Vector3D, Vector2D, Matrix
 
 
 # setup
